@@ -15,7 +15,7 @@ This repository contains the Day 1 setup for a data-driven e-commerce SPA focuse
 - Tailwind CSS configured and connected.
 - Initial shoe-store themed landing UI created.
 - VS Code extension recommendations added.
-- Submission support files started: `prompts.txt` and `report/report.tex`.
+- Submission support files started at repo root: `../prompts.txt` and `../report/report.tex`.
 
 ## Run Locally
 
