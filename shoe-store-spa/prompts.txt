@@ -1,0 +1,8 @@
+The aim 01: [Set up Git and connect local repository to GitHub remote repository]
+Actual prompt: [1st how can i creat a reposetry in git hum and how can i connect local and remote repo as well.i alreDY CREATED THE REPO IN GIT HUB.THIS IS THE SSH git@github.com:sameehaabubakkar/GUI-Mini-Project.git]
+
+The aim 02: [Fix SSH and push code to GitHub]
+Actual prompt: [HOW CAN I CONNECVT LOCAL AND REMOT GIT]
+
+The aim 03: [Start Day 1 project setup for shoe e-commerce SPA]
+Actual prompt: [i am goint to do a e commerce website to buy shoeslike https://www.bestrends.lk/.so do the 1st day task.get what you nee extenstions images all thinks from the websitle i gave you the link https://www.bestrends.lk/.while create the promt file just creat from the git hub setup promt.you think and put promt as well]
