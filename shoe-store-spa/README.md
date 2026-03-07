@@ -1,4 +1,4 @@
-# GUI Mini Project - Shoe Store SPA (Day 1)
+# GUI Mini Project - Shoe Store SPA
 
 This repository contains the Day 1 setup for a data-driven e-commerce SPA focused on shoes.
 
@@ -9,11 +9,15 @@ This repository contains the Day 1 setup for a data-driven e-commerce SPA focuse
 - Vite
 - Tailwind CSS
 
-## Day 1 Scope Completed
+## Progress Summary
 
 - Project initialized with Vue + TypeScript using Vite.
 - Tailwind CSS configured and connected.
 - Initial shoe-store themed landing UI created.
+- Day 2 product data integration completed using DummyJSON.
+- Strict TypeScript interfaces added for API response modeling.
+- Reusable component structure added for product grid and product card.
+- Loading and error states implemented for API fetch.
 - VS Code extension recommendations added.
 - Submission support files started at repo root: `../prompts.txt` and `../report/report.tex`.
 

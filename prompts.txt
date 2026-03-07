@@ -6,3 +6,6 @@ Actual prompt: [HOW CAN I CONNECVT LOCAL AND REMOT GIT]
 
 The aim 03: [Start Day 1 project setup for shoe e-commerce SPA]
 Actual prompt: [i am goint to do a e commerce website to buy shoeslike https://www.bestrends.lk/.so do the 1st day task.get what you nee extenstions images all thinks from the websitle i gave you the link https://www.bestrends.lk/.while create the promt file just creat from the git hub setup promt.you think and put promt as well]
+
+The aim 04: [Continue Day 2 implementation with typed API integration]
+Actual prompt: [continue day 2]

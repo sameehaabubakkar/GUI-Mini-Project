@@ -20,6 +20,9 @@ Shoe Store Single Page Application (SPA)
   \item Day 1 setup completed with Vue 3, TypeScript, Vite, and Tailwind CSS.
   \item Initial responsive home page layout prepared for shoe e-commerce direction.
   \item Development tooling configured for consistent workflow.
+  \item Day 2 integration completed for DummyJSON product endpoint with strict interfaces.
+  \item Added reusable ProductGrid and ProductCard components for scalable UI structure.
+  \item Added loading and error states while fetching products from API.
 \end{itemize}
 
 \section{Planned Features}
@@ -33,11 +36,12 @@ Shoe Store Single Page Application (SPA)
 \section{Component Hierarchy (Planned)}
 \begin{itemize}[leftmargin=*]
   \item \texttt{App.vue}
-  \item \texttt{views/HomeView.vue}
-  \item \texttt{components/ProductList.vue}
+  \item \texttt{services/productService.ts}
+  \item \texttt{types/product.ts}
+  \item \texttt{components/ProductGrid.vue}
   \item \texttt{components/ProductCard.vue}
-  \item \texttt{components/ProductFilters.vue}
-  \item \texttt{views/ProductDetailView.vue}
+  \item \texttt{components/ProductFilters.vue} (planned)
+  \item \texttt{views/ProductDetailView.vue} (planned)
 \end{itemize}
 
 \section{AI Usage Note}
